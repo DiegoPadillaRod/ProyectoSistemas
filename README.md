@@ -1,2 +1,2 @@
-# Troleando
-Lol Wazaaaa
+# Proyecto Señales y Sistemas I
+Codigos y explicaciones
